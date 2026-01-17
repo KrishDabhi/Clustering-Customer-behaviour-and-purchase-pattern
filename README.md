@@ -4,7 +4,7 @@ This project analyzes customer transaction data to uncover hidden patterns in pu
 
 Designed with clarity and practicality in mind, this repository serves as a complete walkthrough from raw data to actionable insights ideal for students, analysts, and data science enthusiasts.
 
-# 🎯 Objectives
+## 🎯 Objectives
 Identify meaningful customer segments using behavioral and transactional data.
 Understand which customers are high-value, at-risk, or occasional buyers.
 Provide business-ready insights for personalized marketing and customer engagement.
